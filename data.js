@@ -81,7 +81,7 @@ var APP_DATA = {
     },
     {
       "id": "1-2-aksu-1-gigapixel-high-fidelity-v2-2x",
-      "name": "2-AKSU-1-gigapixel-high fidelity v2-2x",
+      "name": "Ақсу - 1",
       "levels": [
         {
           "tileSize": 256,
@@ -134,7 +134,7 @@ var APP_DATA = {
     },
     {
       "id": "2-2-aksu-2-gigapixel-high-fidelity-v2-2x",
-      "name": "2-AKSU-2-gigapixel-high fidelity v2-2x",
+      "name": "Ақсу - 2",
       "levels": [
         {
           "tileSize": 256,
@@ -191,7 +191,7 @@ var APP_DATA = {
     },
     {
       "id": "3-2-aksu-3",
-      "name": "2-AKSU-3",
+      "name": "Ақсу - 3",
       "levels": [
         {
           "tileSize": 256,
@@ -236,7 +236,7 @@ var APP_DATA = {
     },
     {
       "id": "4-3-park-1",
-      "name": "3-PARK-1",
+      "name": "Сайрам-Өгем - 1",
       "levels": [
         {
           "tileSize": 256,
@@ -287,7 +287,7 @@ var APP_DATA = {
     },
     {
       "id": "5-3-park-2",
-      "name": "3-PARK-2",
+      "name": "Сайрам-Өгем - 2",
       "levels": [
         {
           "tileSize": 256,
@@ -338,7 +338,7 @@ var APP_DATA = {
     },
     {
       "id": "6-3-park-3-gigapixel-high-fidelity-v2-2x",
-      "name": "3-PARK-3-gigapixel-high fidelity v2-2x",
+      "name": "Сайрам-Өгем - 3",
       "levels": [
         {
           "tileSize": 256,
@@ -385,7 +385,7 @@ var APP_DATA = {
     },
     {
       "id": "7-3-park-4",
-      "name": "3-PARK-4",
+      "name": "Сайрам-Өгем - 4",
       "levels": [
         {
           "tileSize": 256,
@@ -438,7 +438,7 @@ var APP_DATA = {
     },
     {
       "id": "8-4-zapo-1",
-      "name": "4-ZAPO-1",
+      "name": "Ақсу-Жабағылы - 1",
       "levels": [
         {
           "tileSize": 256,
@@ -491,7 +491,7 @@ var APP_DATA = {
     },
     {
       "id": "9-4-zapo-2-gigapixel-high-fidelity-v2-2x",
-      "name": "4-ZAPO-2-gigapixel-high fidelity v2-2x",
+      "name": "Ақсу-Жабағылы - 2",
       "levels": [
         {
           "tileSize": 256,
@@ -542,7 +542,7 @@ var APP_DATA = {
     },
     {
       "id": "10-4-zapo-3-gigapixel-high-fidelity-v2-2x",
-      "name": "4-ZAPO-3-gigapixel-high fidelity v2-2x",
+      "name": "Ақсу-Жабағылы - 3",
       "levels": [
         {
           "tileSize": 256,
@@ -589,7 +589,7 @@ var APP_DATA = {
     },
     {
       "id": "11-4-zapo-4-gigapixel-high-fidelity-v2-2x",
-      "name": "4-ZAPO-4-gigapixel-high fidelity v2-2x",
+      "name": "Ақсу-Жабағылы - 4",
       "levels": [
         {
           "tileSize": 256,
@@ -646,7 +646,7 @@ var APP_DATA = {
     },
     {
       "id": "12-4-zapo-5-gigapixel-high-fidelity-v2-2x",
-      "name": "4-ZAPO-5-gigapixel-high fidelity v2-2x",
+      "name": "Ақсу-Жабағылы - 5",
       "levels": [
         {
           "tileSize": 256,
